@@ -16,5 +16,6 @@ Unity Version Control
 ---
 5. Añadir una cápsula con una textura, agregar este cambio a una nueva rama.
 ![Ejercicio5](images/Ejercicio5.png)
+El cambio en la rama "test" se puede apreciar en la imagen de los cambios en SCM
 ---
 
